@@ -13,6 +13,11 @@ const port = process.env.PORT || 3000
 server.use(middlewares)
 server.use(customMiddlewares)
 
+// Add custom routes before JSON Server router
+server.get('/echo', (req, res) => {
+  res.jsonp(req.query)
+})
+
 const customRouter = jsonServer.rewriter({
     "/api/v1/*": "/$1",
     "/mealPlan/:day": "/mealPlan?day=:day"

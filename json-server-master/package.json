@@ -10,5 +10,8 @@
     "heroku-prebuild": "npm install"
   },
   "author": "Inpyo Hong <y2kpaulh@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server" : "^0.17.0"
+  }
 }
