@@ -19,7 +19,8 @@ server.use(customMiddlewares)
 
 const customRouter = jsonServer.rewriter({
   "/api/v1/*": "/$1",
-  "/mealPlan/:day": "/mealPlan?day=:day"
+  "/mealPlan/:day": "/mealPlan?day=:day",
+  "/biblePlan/:day": "/biblePlan?day=:day"
 })
 // 커스텀 라우터 설정 
 server.use(customRouter);
