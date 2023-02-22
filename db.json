@@ -1,37 +1,15 @@
-  {
-    "mealPlan": [
+{
+    "biblePlan" : [
       {
-        "day": "2022-12-28",
-        "book": "왕상",
+        "day": "2023-02-22",
+        "book": "민",
         "fChap": 22,
         "fVer": 1,
         "lChap": 22,
         "lVer": 14
-      },
-      {
-        "day": "2022-12-29",
-        "book": "왕상",
-        "fChap": 22,
-        "fVer": 15,
-        "lChap": 22,
-        "lVer": 28
-      },
-      {
-        "day": "2022-12-30",
-        "book": "왕상",
-        "fChap": 22,
-        "fVer": 29,
-        "lChap": 22,
-        "lVer": 40
-      },
-      {
-        "day": "2022-12-31",
-        "book": "왕상",
-        "fChap": 22,
-        "fVer": 41,
-        "lChap": 22,
-        "lVer": 53
-      },
+      }
+    ],
+    "mealPlan": [
     {
       "day": "2023-01-01",
       "book": "요",
