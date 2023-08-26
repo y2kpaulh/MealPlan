@@ -2,117 +2,6 @@
     "readingPlan":
     [
         {
-            "day": "2023-07-01",
-            "meal":{
-                "book": "시",
-                "fChap": 103,
-                "fVer": 15,
-                "lChap": 103,
-                "lVer": 22
-                },
-            "readThrough": [
-                {
-                    "book": "사",
-                    "fChap": 21,
-                    "fVer": 1,
-                    "lChap": 24,
-                    "lVer": 100
-                }
-            ]
-        },
-         {
-            "day": "2023-07-02",
-            "meal":{
-                "book": "시",
-                "fChap": 104,
-                "fVer": 1,
-                "lChap": 104,
-                "lVer": 18
-                },
-            "readThrough": [
-                {
-                    "book": "사",
-                    "fChap": 25,
-                    "fVer": 1,
-                    "lChap": 29,
-                    "lVer": 100
-                }
-            ]
-        },
-         {
-            "day": "2023-07-03",
-            "meal":{
-                "book": "시",
-                "fChap": 104,
-                "fVer": 19,
-                "lChap": 104,
-                "lVer": 35
-                },
-            "readThrough": [
-                {
-                    "book": "사",
-                    "fChap": 30,
-                    "fVer": 1,
-                    "lChap": 35,
-                    "lVer": 100
-                }
-            ]
-        },
-         {
-            "day": "2023-07-04",
-            "meal":{
-                "book": "시",
-                "fChap": 105,
-                "fVer": 1,
-                "lChap": 105,
-                "lVer": 11
-                },
-            "readThrough": [
-                {
-                    "book": "왕하",
-                    "fChap": 18,
-                    "fVer": 13,
-                    "lChap": 18,
-                    "lVer": 37
-                },
-                {
-                    "book": "사",
-                    "fChap": 36,
-                    "fVer": 1,
-                    "lChap": 36,
-                    "lVer": 100
-                }
-            ]
-        },
-
-         {
-            "day": "2023-07-05",
-            "meal":{
-                "book": "시",
-                "fChap": 105,
-                "fVer": 12,
-                "lChap": 105,
-                "lVer": 23
-                },
-            "readThrough": [
-                {
-                    "book": "왕하",
-                    "fChap": 19,
-                    "fVer": 1,
-                    "lChap": 19,
-                    "lVer": 100
-                },
-                {
-                    "book": "사",
-                    "fChap": 37,
-                    "fVer": 1,
-                    "lChap": 37,
-                    "lVer": 100
-                }
-            ]
-        },
-
-         {
             "day": "2023-07-06",
             "meal":{
                 "book": "시",
@@ -143,379 +32,52 @@
     "mealPlan":
     [
         {
-            "day": "2023-07-10",
+            "day": "2023-08-26",
             "book": "렘",
-            "fChap": 1,
+            "fChap": 22,
             "fVer": 1,
-            "lChap": 1,
-            "lVer": 10
-        },
-        {
-            "day": "2023-07-11",
-            "book": "렘",
-            "fChap": 1,
-            "fVer": 11,
-            "lChap": 1,
-            "lVer": 19
-        },
-        {
-            "day": "2023-07-12",
-            "book": "렘",
-            "fChap": 2,
-            "fVer": 1,
-            "lChap": 2,
-            "lVer": 8
-        },
-        {
-            "day": "2023-07-13",
-            "book": "렘",
-            "fChap": 2,
-            "fVer": 9,
-            "lChap": 2,
-            "lVer": 19
-        },
-        {
-            "day": "2023-07-14",
-            "book": "렘",
-            "fChap": 2,
-            "fVer": 20,
-            "lChap": 2,
-            "lVer": 28
-        },
-        {
-            "day": "2023-07-15",
-            "book": "렘",
-            "fChap": 2,
-            "fVer": 29,
-            "lChap": 2,
-            "lVer": 37
-        },        {
-            "day": "2023-07-16",
-            "book": "렘",
-            "fChap": 3,
-            "fVer": 1,
-            "lChap": 3,
-            "lVer": 5
-        },
-        {
-            "day": "2023-07-17",
-            "book": "렘",
-            "fChap": 3,
-            "fVer": 6,
-            "lChap": 3,
-            "lVer": 18
-        },
-        {
-            "day": "2023-07-18",
-            "book": "렘",
-            "fChap": 3,
-            "fVer": 19,
-            "lChap": 4,
-            "lVer": 4
-        },
-        {
-            "day": "2023-07-19",
-            "book": "렘",
-            "fChap": 4,
-            "fVer": 5,
-            "lChap": 4,
-            "lVer": 18
-        },
-        {
-            "day": "2023-07-20",
-            "book": "렘",
-            "fChap": 4,
-            "fVer": 19,
-            "lChap": 4,
-            "lVer": 31
-        },
-        {
-            "day": "2023-07-21",
-            "book": "렘",
-            "fChap": 5,
-            "fVer": 1,
-            "lChap": 5,
+            "lChap": 22,
             "lVer": 9
         },
         {
-            "day": "2023-07-22",
+            "day": "2023-08-27",
             "book": "렘",
-            "fChap": 5,
+            "fChap": 22,
             "fVer": 10,
-            "lChap": 5,
+            "lChap": 22,
             "lVer": 19
         },
         {
-            "day": "2023-07-23",
+            "day": "2023-08-28",
             "book": "렘",
-            "fChap": 5,
+            "fChap": 22,
             "fVer": 20,
-            "lChap": 5,
-            "lVer": 31
-        },
-        {
-            "day": "2023-07-24",
-            "book": "렘",
-            "fChap": 6,
-            "fVer": 1,
-            "lChap": 6,
-            "lVer": 15
-        },
-        {
-            "day": "2023-07-25",
-            "book": "렘",
-            "fChap": 6,
-            "fVer": 16,
-            "lChap": 6,
+            "lChap": 22,
             "lVer": 30
         },
         {
-            "day": "2023-07-26",
+            "day": "2023-08-29",
             "book": "렘",
-            "fChap": 7,
+            "fChap": 23,
             "fVer": 1,
-            "lChap": 7,
-            "lVer": 15
-        },
-        {
-            "day": "2023-07-27",
-            "book": "렘",
-            "fChap": 7,
-            "fVer": 16,
-            "lChap": 7,
-            "lVer": 28
-        },
-        {
-            "day": "2023-07-28",
-            "book": "렘",
-            "fChap": 7,
-            "fVer": 29,
-            "lChap": 8,
-            "lVer": 3
-        },
-        {
-            "day": "2023-07-29",
-            "book": "렘",
-            "fChap": 8,
-            "fVer": 4,
-            "lChap": 8,
-            "lVer": 17
-        },
-        {
-            "day": "2023-07-30",
-            "book": "렘",
-            "fChap": 8,
-            "fVer": 18,
-            "lChap": 9,
-            "lVer": 6
-        },
-        {
-            "day": "2023-07-31",
-            "book": "렘",
-            "fChap": 9,
-            "fVer": 7,
-            "lChap": 9,
-            "lVer": 16
-        },
-        {
-            "day": "2023-08-01",
-            "book": "렘",
-            "fChap": 9,
-            "fVer": 17,
-            "lChap": 9,
-            "lVer": 26
-        },
-        {
-            "day": "2023-08-02",
-            "book": "렘",
-            "fChap": 10,
-            "fVer": 1,
-            "lChap": 10,
-            "lVer": 16
-        },
-        {
-            "day": "2023-08-03",
-            "book": "렘",
-            "fChap": 10,
-            "fVer": 17,
-            "lChap": 10,
-            "lVer": 25
-        },
-        {
-            "day": "2023-08-04",
-            "book": "렘",
-            "fChap": 11,
-            "fVer": 1,
-            "lChap": 11,
+            "lChap": 23,
             "lVer": 8
         },
         {
-            "day": "2023-08-05",
+            "day": "2023-08-30",
             "book": "렘",
-            "fChap": 11,
+            "fChap": 23,
             "fVer": 9,
-            "lChap": 11,
-            "lVer": 17
-        },
-        {
-            "day": "2023-08-06",
-            "book": "렘",
-            "fChap": 11,
-            "fVer": 18,
-            "lChap": 12,
-            "lVer": 6
-        },
-        {
-            "day": "2023-08-07",
-            "book": "렘",
-            "fChap": 12,
-            "fVer": 7,
-            "lChap": 12,
-            "lVer": 17
-        },
-        {
-            "day": "2023-08-08",
-            "book": "렘",
-            "fChap": 13,
-            "fVer": 1,
-            "lChap": 13,
-            "lVer": 11
-        },
-        {
-            "day": "2023-08-09",
-            "book": "렘",
-            "fChap": 13,
-            "fVer": 12,
-            "lChap": 13,
-            "lVer": 19
-        },
-        {
-            "day": "2023-08-10",
-            "book": "렘",
-            "fChap": 13,
-            "fVer": 20,
-            "lChap": 13,
-            "lVer": 27
-        },
-        {
-            "day": "2023-08-11",
-            "book": "렘",
-            "fChap": 14,
-            "fVer": 1,
-            "lChap": 14,
-            "lVer": 12
-        },
-        {
-            "day": "2023-08-12",
-            "book": "렘",
-            "fChap": 14,
-            "fVer": 13,
-            "lChap": 14,
+            "lChap": 23,
             "lVer": 22
         },
         {
-            "day": "2023-08-13",
+            "day": "2023-08-31",
             "book": "렘",
-            "fChap": 15,
-            "fVer": 1,
-            "lChap": 15,
-            "lVer": 9
-        },
-        {
-            "day": "2023-08-14",
-            "book": "렘",
-            "fChap": 15,
-            "fVer": 10,
-            "lChap": 15,
-            "lVer": 21
-        },
-        {
-            "day": "2023-08-15",
-            "book": "렘",
-            "fChap": 16,
-            "fVer": 1,
-            "lChap": 16,
-            "lVer": 13
-        },
-        {
-            "day": "2023-08-16",
-            "book": "렘",
-            "fChap": 16,
-            "fVer": 14,
-            "lChap": 16,
-            "lVer": 21
-        },
-        {
-            "day": "2023-08-17",
-            "book": "렘",
-            "fChap": 17,
-            "fVer": 1,
-            "lChap": 17,
-            "lVer": 11
-        },
-        {
-            "day": "2023-08-18",
-            "book": "렘",
-            "fChap": 17,
-            "fVer": 12,
-            "lChap": 17,
-            "lVer": 18
-        },
-        {
-            "day": "2023-08-19",
-            "book": "렘",
-            "fChap": 17,
-            "fVer": 19,
-            "lChap": 17,
-            "lVer": 27
-        },
-        {
-            "day": "2023-08-20",
-            "book": "렘",
-            "fChap": 18,
-            "fVer": 1,
-            "lChap": 18,
-            "lVer": 12
-        },
-        {
-            "day": "2023-08-21",
-            "book": "렘",
-            "fChap": 18,
-            "fVer": 13,
-            "lChap": 18,
-            "lVer": 23
-        },
-        {
-            "day": "2023-08-22",
-            "book": "렘",
-            "fChap": 19,
-            "fVer": 1,
-            "lChap": 19,
-            "lVer": 13
-        },
-        {
-            "day": "2023-08-23",
-            "book": "렘",
-            "fChap": 19,
-            "fVer": 14,
-            "lChap": 20,
-            "lVer": 6
-        },
-        {
-            "day": "2023-08-24",
-            "book": "렘",
-            "fChap": 20,
-            "fVer": 7,
-            "lChap": 20,
-            "lVer": 18
-        },
-        {
-            "day": "2023-08-25",
-            "book": "렘",
-            "fChap": 21,
-            "fVer": 1,
-            "lChap": 21,
-            "lVer": 14
+            "fChap": 23,
+            "fVer": 23,
+            "lChap": 23,
+            "lVer": 40
         },
         {
             "day": "2023-08-26",
@@ -564,6 +126,494 @@
             "fVer": 23,
             "lChap": 23,
             "lVer": 40
+        },
+        {
+            "day": "2023-09-01",
+            "book": "렘",
+            "fChap": 24,
+            "fVer": 1,
+            "lChap": 24,
+            "lVer": 10
+        },
+        {
+            "day": "2023-09-02",
+            "book": "렘",
+            "fChap": 25,
+            "fVer": 1,
+            "lChap": 25,
+            "lVer": 14
+        },
+        {
+            "day": "2023-09-03",
+            "book": "렘",
+            "fChap": 25,
+            "fVer": 15,
+            "lChap": 25,
+            "lVer": 29
+        },
+        {
+            "day": "2023-09-04",
+            "book": "렘",
+            "fChap": 25,
+            "fVer": 30,
+            "lChap": 25,
+            "lVer": 38
+        },
+        {
+            "day": "2023-09-05",
+            "book": "렘",
+            "fChap": 26,
+            "fVer": 1,
+            "lChap": 26,
+            "lVer": 15
+        },
+        {
+            "day": "2023-09-06",
+            "book": "렘",
+            "fChap": 26,
+            "fVer": 16,
+            "lChap": 26,
+            "lVer": 24
+        },
+        {
+            "day": "2023-09-07",
+            "book": "렘",
+            "fChap": 27,
+            "fVer": 1,
+            "lChap": 27,
+            "lVer": 11
+        },
+        {
+            "day": "2023-09-08",
+            "book": "렘",
+            "fChap": 27,
+            "fVer": 12,
+            "lChap": 27,
+            "lVer": 22
+        },
+        {
+            "day": "2023-09-09",
+            "book": "렘",
+            "fChap": 28,
+            "fVer": 1,
+            "lChap": 28,
+            "lVer": 17
+        },
+        {
+            "day": "2023-09-10",
+            "book": "렘",
+            "fChap": 29,
+            "fVer": 1,
+            "lChap": 29,
+            "lVer": 14
+        },
+        {
+            "day": "2023-09-11",
+            "book": "렘",
+            "fChap": 29,
+            "fVer": 15,
+            "lChap": 29,
+            "lVer": 32
+        },
+        {
+            "day": "2023-09-12",
+            "book": "렘",
+            "fChap": 30,
+            "fVer": 1,
+            "lChap": 30,
+            "lVer": 11
+        },
+        {
+            "day": "2023-09-13",
+            "book": "렘",
+            "fChap": 30,
+            "fVer": 12,
+            "lChap": 30,
+            "lVer": 24
+        },
+        {
+            "day": "2023-09-14",
+            "book": "렘",
+            "fChap": 31,
+            "fVer": 1,
+            "lChap": 31,
+            "lVer": 9
+        },
+        {
+            "day": "2023-09-15",
+            "book": "렘",
+            "fChap": 31,
+            "fVer": 10,
+            "lChap": 31,
+            "lVer": 22
+        },
+        {
+            "day": "2023-09-16",
+            "book": "렘",
+            "fChap": 31,
+            "fVer": 23,
+            "lChap": 31,
+            "lVer": 40
+        },
+        {
+            "day": "2023-09-17",
+            "book": "렘",
+            "fChap": 32,
+            "fVer": 1,
+            "lChap": 32,
+            "lVer": 15
+        },
+        {
+            "day": "2023-09-18",
+            "book": "렘",
+            "fChap": 32,
+            "fVer": 16,
+            "lChap": 32,
+            "lVer": 25
+        },
+        {
+            "day": "2023-09-19",
+            "book": "렘",
+            "fChap": 32,
+            "fVer": 26,
+            "lChap": 32,
+            "lVer": 35
+        },
+        {
+            "day": "2023-09-20",
+            "book": "렘",
+            "fChap": 32,
+            "fVer": 36,
+            "lChap": 32,
+            "lVer": 44
+        },
+        {
+            "day": "2023-09-21",
+            "book": "렘",
+            "fChap": 33,
+            "fVer": 1,
+            "lChap": 33,
+            "lVer": 13
+        },
+        {
+            "day": "2023-09-22",
+            "book": "렘",
+            "fChap": 33,
+            "fVer": 14,
+            "lChap": 33,
+            "lVer": 26
+        },
+        {
+            "day": "2023-09-23",
+            "book": "렘",
+            "fChap": 34,
+            "fVer": 1,
+            "lChap": 34,
+            "lVer": 7
+        },
+        {
+            "day": "2023-09-24",
+            "book": "렘",
+            "fChap": 34,
+            "fVer": 8,
+            "lChap": 34,
+            "lVer": 22
+        },
+        {
+            "day": "2023-09-25",
+            "book": "렘",
+            "fChap": 35,
+            "fVer": 1,
+            "lChap": 35,
+            "lVer": 19
+        },
+        {
+            "day": "2023-09-26",
+            "book": "렘",
+            "fChap": 36,
+            "fVer": 1,
+            "lChap": 36,
+            "lVer": 19
+        },
+        {
+            "day": "2023-09-27",
+            "book": "렘",
+            "fChap": 36,
+            "fVer": 20,
+            "lChap": 36,
+            "lVer": 32
+        },
+        {
+            "day": "2023-09-28",
+            "book": "렘",
+            "fChap": 37,
+            "fVer": 1,
+            "lChap": 37,
+            "lVer": 10
+        },
+        {
+            "day": "2023-09-29",
+            "book": "렘",
+            "fChap": 37,
+            "fVer": 11,
+            "lChap": 37,
+            "lVer": 21
+        },
+        {
+            "day": "2023-09-30",
+            "book": "렘",
+            "fChap": 38,
+            "fVer": 1,
+            "lChap": 38,
+            "lVer": 13
+        },
+        {
+            "day": "2023-10-01",
+            "book": "렘",
+            "fChap": 38,
+            "fVer": 14,
+            "lChap": 38,
+            "lVer": 28
+        },
+        {
+            "day": "2023-10-02",
+            "book": "렘",
+            "fChap": 39,
+            "fVer": 1,
+            "lChap": 39,
+            "lVer": 18
+        },
+        {
+            "day": "2023-10-03",
+            "book": "렘",
+            "fChap": 40,
+            "fVer": 1,
+            "lChap": 40,
+            "lVer": 16
+        },
+        {
+            "day": "2023-10-04",
+            "book": "렘",
+            "fChap": 41,
+            "fVer": 1,
+            "lChap": 41,
+            "lVer": 18
+        },
+        {
+            "day": "2023-10-05",
+            "book": "렘",
+            "fChap": 42,
+            "fVer": 1,
+            "lChap": 42,
+            "lVer": 14
+        },
+        {
+            "day": "2023-10-06",
+            "book": "렘",
+            "fChap": 42,
+            "fVer": 15,
+            "lChap": 42,
+            "lVer": 22
+        },
+        {
+            "day": "2023-10-07",
+            "book": "렘",
+            "fChap": 43,
+            "fVer": 1,
+            "lChap": 43,
+            "lVer": 13
+        },
+        {
+            "day": "2023-10-08",
+            "book": "렘",
+            "fChap": 44,
+            "fVer": 1,
+            "lChap": 44,
+            "lVer": 14
+        },
+        {
+            "day": "2023-10-09",
+            "book": "렘",
+            "fChap": 44,
+            "fVer": 15,
+            "lChap": 44,
+            "lVer": 30
+        },
+        {
+            "day": "2023-10-10",
+            "book": "렘",
+            "fChap": 45,
+            "fVer": 1,
+            "lChap": 45,
+            "lVer": 5
+        },
+        {
+            "day": "2023-10-11",
+            "book": "렘",
+            "fChap": 46,
+            "fVer": 1,
+            "lChap": 46,
+            "lVer": 12
+        },
+        {
+            "day": "2023-10-12",
+            "book": "렘",
+            "fChap": 46,
+            "fVer": 13,
+            "lChap": 46,
+            "lVer": 28
+        },
+        {
+            "day": "2023-10-13",
+            "book": "렘",
+            "fChap": 47,
+            "fVer": 1,
+            "lChap": 47,
+            "lVer": 7
+        },
+        {
+            "day": "2023-10-14",
+            "book": "렘",
+            "fChap": 48,
+            "fVer": 1,
+            "lChap": 48,
+            "lVer": 10
+        },
+        {
+            "day": "2023-10-15",
+            "book": "렘",
+            "fChap": 48,
+            "fVer": 11,
+            "lChap": 48,
+            "lVer": 25
+        },
+        {
+            "day": "2023-10-16",
+            "book": "렘",
+            "fChap": 48,
+            "fVer": 26,
+            "lChap": 48,
+            "lVer": 35
+        },
+        {
+            "day": "2023-10-17",
+            "book": "렘",
+            "fChap": 48,
+            "fVer": 36,
+            "lChap": 48,
+            "lVer": 47
+        },
+        {
+            "day": "2023-10-18",
+            "book": "렘",
+            "fChap": 49,
+            "fVer": 1,
+            "lChap": 49,
+            "lVer": 6
+        },
+        {
+            "day": "2023-10-19",
+            "book": "렘",
+            "fChap": 49,
+            "fVer": 7,
+            "lChap": 49,
+            "lVer": 22
+        },
+        {
+            "day": "2023-10-20",
+            "book": "렘",
+            "fChap": 49,
+            "fVer": 23,
+            "lChap": 49,
+            "lVer": 39
+        },
+        {
+            "day": "2023-10-21",
+            "book": "렘",
+            "fChap": 50,
+            "fVer": 1,
+            "lChap": 50,
+            "lVer": 10
+        },
+        {
+            "day": "2023-10-22",
+            "book": "렘",
+            "fChap": 50,
+            "fVer": 11,
+            "lChap": 50,
+            "lVer": 20
+        },
+        {
+            "day": "2023-10-23",
+            "book": "렘",
+            "fChap": 50,
+            "fVer": 21,
+            "lChap": 50,
+            "lVer": 32
+        },
+        {
+            "day": "2023-10-24",
+            "book": "렘",
+            "fChap": 50,
+            "fVer": 33,
+            "lChap": 50,
+            "lVer": 46
+        },
+        {
+            "day": "2023-10-25",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 1,
+            "lChap": 51,
+            "lVer": 10
+        },
+        {
+            "day": "2023-10-26",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 11,
+            "lChap": 51,
+            "lVer": 19
+        },
+        {
+            "day": "2023-10-27",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 20,
+            "lChap": 51,
+            "lVer": 32
+        },
+        {
+            "day": "2023-10-28",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 33,
+            "lChap": 51,
+            "lVer": 44
+        },
+        {
+            "day": "2023-10-29",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 45,
+            "lChap": 51,
+            "lVer": 53
+        },
+        {
+            "day": "2023-10-30",
+            "book": "렘",
+            "fChap": 51,
+            "fVer": 54,
+            "lChap": 51,
+            "lVer": 64
+        },
+        {
+            "day": "2023-10-31",
+            "book": "렘",
+            "fChap": 52,
+            "fVer": 1,
+            "lChap": 52,
+            "lVer": 11
         }
     ]
 }
